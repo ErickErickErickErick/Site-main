@@ -1,0 +1,34 @@
+body
+{
+   margin: 0px;
+   padding: 0px;
+    overflow: hidden;
+}
+.fundo
+{
+    background-color: rgb(39, 34, 34);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.nome
+{
+    width: 270px;
+    margin: 15px;
+}
+.filtros
+{
+    display: flex;
+    flex-direction: row;
+}
+.filtro
+{
+    width: 150px;
+    height: 30px;
+    border: none;
+    margin: 15px;
+    border-radius: 10px;
+    background-color: rgb(148, 138, 138);
+   
+}
