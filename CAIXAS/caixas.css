@@ -41,6 +41,7 @@ body
 
 .caixa_pequena
 {
+    position: absolute;
     height: 275px;
     width: 275px;
     background-color: #45965A;
@@ -49,6 +50,7 @@ body
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    margin-right: 750px;
 }
 .img_caixa_pequena
 {
@@ -57,6 +59,7 @@ body
 
 .caixa_media
 {
+    position: absolute;
     height: 275px;
     width: 275px;
     background-color: #C69E26;
@@ -72,6 +75,7 @@ body
 }
 .caixa_grande
 {
+    position: absolute;
     height: 275px;
     width: 275px;
     background-color: #BF3815;
@@ -80,6 +84,7 @@ body
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    margin-left: 750px;
 }
 .img_caixa_grande
 {
