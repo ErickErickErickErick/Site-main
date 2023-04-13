@@ -132,3 +132,12 @@ body
             align-items: center;
             justify-content: space-around;
         }
+
+        .errado
+        {
+            background-color: #f38888;
+        }
+        .certo
+        {
+            background-color: lightgreen;
+        }
