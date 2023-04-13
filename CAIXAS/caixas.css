@@ -22,11 +22,17 @@ body
     flex-direction: row;
     align-items: center;
 }
+.quadrado1
+    {
+        width: 90px;
+        height: 12vh;
+    }
 
 .nome
 {
-    width: 48.5%;
-    margin-left: 18.5vh;
+    width: 220px;
+    height: 55px;
+    margin-top: 18px;
 }
 .caixas
 {

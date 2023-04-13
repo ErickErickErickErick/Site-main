@@ -34,9 +34,9 @@ body
 
         .Nome
         {
-            width: 250px;
-            height: 60px;
-            margin-top: 15px;
+            width: 220px;
+            height: 55px;
+            margin-top: 18px;
         }
 
     .Botoes
@@ -72,9 +72,9 @@ body
     }
     .Perfil
     {      
-        width: 70px;
-        height: 70px;
-        margin-top: 6px;
+        width: 60px;
+        height: 60px;
+        margin-top: 10px;
     }
 
 .Corpo
@@ -164,4 +164,13 @@ body
         .botaocarteira
         {
             width: 30vh;
+        }
+
+        .errado
+        {
+            background-color: rgb(243, 136, 136);
+        }
+        .certo
+        {
+            background-color: lightgreen;
         }
